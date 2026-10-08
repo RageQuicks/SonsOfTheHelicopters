@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RustHelicopter",
+  "name": "Rust Helicopter",
+  "author": "RageQuicks",
+  "version": "1.0.0",
+  "description": "Adds a flyable Rust-style minicopter. Type /helicopter (chat, as host) or helicopter (F1 console) to spawn one on the ground with a full fuel tank.",
+  "gameVersion": "2.0.0",
+  "platform": "Client",
+  "type": "Mod",
+  "url": "https://github.com/RageQuicks/SonsOfTheHelicopters"
+}

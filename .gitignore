@@ -1,0 +1,7 @@
+bin/
+obj/
+dist/
+GamePath.user.props
+*.user
+.vs/
+.idea/
